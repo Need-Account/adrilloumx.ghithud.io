@@ -1,0 +1,15 @@
+body
+{
+	background-color: #FF8500;
+}
+#conteneur
+{
+   display: flex;
+   margin-left: auto;
+    margin-right: auto;
+    width: 4em
+}
+#HOME
+{
+
+}
